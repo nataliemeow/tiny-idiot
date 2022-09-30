@@ -7,6 +7,6 @@ Paste the following to your browser URL bar.
 
 You should see something like the following.
 
-[Black and white flashing document that says "you are an idiot"](example.gif)
+[Black and white flashing document that says "you are an idiot"](ezgif.com-gif-maker(18).gif)
 
 That also fits in a Discord message. :)
